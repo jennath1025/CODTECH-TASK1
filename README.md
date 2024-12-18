@@ -3,4 +3,4 @@ Company: CODTECH IT SOLUTIONS
 ID:CT08DS10314
 Domain:Python
 Duration: Nov to Dec 2024
-![task1 in codtech it solutions](https://github.com/user-attachments/assets/bf084e6c-4704-4ae5-b03d-fc9352909808)
+![Task1 ](https://github.com/user-attachments/assets/b4ba408d-92bd-441a-a5e0-dfb82035cd39)
